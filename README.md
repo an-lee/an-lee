@@ -8,10 +8,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   2 hrs 52 mins   ████████████▒░░░░░░░░░░░░   49.94 % 
-Ruby         1 hr 51 mins    ████████░░░░░░░░░░░░░░░░░   32.31 % 
-GraphQL      21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
-Markdown     15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-Bash         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
