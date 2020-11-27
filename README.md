@@ -8,6 +8,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-JSON       8 mins          ███████████████████████▒░   93.23 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
