@@ -8,8 +8,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Ruby    20 mins         █████████████████░░░░░░░░   67.35 % 
-YAML    8 mins          ███████░░░░░░░░░░░░░░░░░░   28.14 % 
-JSON    1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
