@@ -4,6 +4,8 @@
 - Developer since July, 2017
 - Structral Engineer since July, 2012
 
+My work of last week:
+
 <!--START_SECTION:waka-->
 ```text
 Ruby         21 hrs 33 mins  ████████████▓░░░░░░░░░░░░   51.28 % 
