@@ -6,7 +6,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 March, 2021 - 21 March, 2021
+Week: 15 March, 2021 - 22 March, 2021
 
 Ruby         13 hrs 10 mins  ███████████▓░░░░░░░░░░░░░   47.13 % 
 TypeScript   9 hrs 12 mins   ████████▒░░░░░░░░░░░░░░░░   32.97 % 
