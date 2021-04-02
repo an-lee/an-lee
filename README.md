@@ -6,12 +6,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 March, 2021 - 31 March, 2021
+Week: 25 March, 2021 - 01 April, 2021
 
-TypeScript   12 hrs 33 mins  ███████████▓░░░░░░░░░░░░░   46.90 % 
-Ruby         10 hrs 32 mins  ██████████░░░░░░░░░░░░░░░   39.40 % 
-JavaScript   1 hr 32 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
-YAML         47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
-GraphQL      37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+Ruby         12 hrs 28 mins  █████████████▒░░░░░░░░░░░   53.86 % 
+TypeScript   8 hrs 2 mins    ████████▓░░░░░░░░░░░░░░░░   34.67 % 
+YAML         51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+GraphQL      44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+JavaScript   22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 ```
 <!--END_SECTION:waka-->
