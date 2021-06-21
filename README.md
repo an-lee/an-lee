@@ -6,12 +6,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 June, 2021 - 19 June, 2021
+Week: 13 June, 2021 - 20 June, 2021
 
-Ruby         9 hrs 43 mins   ██████████████▓░░░░░░░░░░   58.07 % 
-TypeScript   2 hrs 43 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-YAML         1 hr 48 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
-ERB          1 hr 13 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-JavaScript   21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+Ruby         8 hrs 54 mins   ██████████████▒░░░░░░░░░░   56.96 % 
+TypeScript   4 hrs 21 mins   ███████░░░░░░░░░░░░░░░░░░   27.92 % 
+YAML         1 hr 2 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+JavaScript   17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+Other        16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 ```
 <!--END_SECTION:waka-->
