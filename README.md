@@ -6,7 +6,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 August, 2021 - 13 August, 2021
+Week: 08 August, 2021 - 14 August, 2021
 
 TypeScript   1 hr 34 mins    █████████▒░░░░░░░░░░░░░░░   37.90 % 
 JavaScript   1 hr 10 mins    ███████░░░░░░░░░░░░░░░░░░   28.11 % 
