@@ -6,12 +6,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 September, 2021 - 09 September, 2021
+Week: 04 September, 2021 - 10 September, 2021
 
-TypeScript   18 hrs 42 mins  █████████████░░░░░░░░░░░░   51.46 % 
-Ruby         14 hrs 47 mins  ██████████▒░░░░░░░░░░░░░░   40.70 % 
-GraphQL      1 hr 4 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-JavaScript   1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-Other        14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+TypeScript   17 hrs 15 mins  ████████████▓░░░░░░░░░░░░   50.58 % 
+Ruby         13 hrs 56 mins  ██████████▒░░░░░░░░░░░░░░   40.87 % 
+GraphQL      1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+JavaScript   1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+Markdown     15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 ```
 <!--END_SECTION:waka-->
