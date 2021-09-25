@@ -6,12 +6,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 September, 2021 - 23 September, 2021
+Week: 18 September, 2021 - 24 September, 2021
 
-Ruby         8 hrs 34 mins   ██████████░░░░░░░░░░░░░░░   40.34 % 
-ERB          7 hrs 19 mins   ████████▓░░░░░░░░░░░░░░░░   34.45 % 
-JavaScript   1 hr 34 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
-TypeScript   1 hr 33 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-Other        47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+ERB          10 hrs 25 mins  ███████████▓░░░░░░░░░░░░░   46.52 % 
+Ruby         7 hrs 37 mins   ████████▓░░░░░░░░░░░░░░░░   34.08 % 
+JavaScript   1 hr 12 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+TypeScript   1 hr 8 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+YAML         45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
 ```
 <!--END_SECTION:waka-->
