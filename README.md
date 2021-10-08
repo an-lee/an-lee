@@ -6,9 +6,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 September, 2021 - 06 October, 2021
+Week: 01 October, 2021 - 07 October, 2021
 
-Ruby    4 hrs 48 mins   ████████████████████████▒   97.56 % 
-ERB     6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+Ruby   2 hrs 38 mins   █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
