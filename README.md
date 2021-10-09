@@ -6,8 +6,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 October, 2021 - 07 October, 2021
+Week: 02 October, 2021 - 08 October, 2021
 
-Ruby   2 hrs 38 mins   █████████████████████████   100.00 % 
+TypeScript   1 hr 50 mins    ██████████████▒░░░░░░░░░░   56.88 % 
+Ruby         1 hr 1 min      ████████░░░░░░░░░░░░░░░░░   31.87 % 
+YAML         8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+JSON         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+GraphQL      4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
 ```
 <!--END_SECTION:waka-->
