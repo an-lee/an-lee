@@ -6,12 +6,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 October, 2021 - 10 October, 2021
+Week: 05 October, 2021 - 11 October, 2021
 
-TypeScript   5 hrs 47 mins   █████████████░░░░░░░░░░░░   52.63 % 
-Ruby         4 hrs 47 mins   ███████████░░░░░░░░░░░░░░   43.53 % 
-GraphQL      8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
-YAML         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+TypeScript   6 hrs 40 mins   ████████████▓░░░░░░░░░░░░   50.07 % 
+Ruby         6 hrs 2 mins    ███████████▒░░░░░░░░░░░░░   45.26 % 
+YAML         19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+GraphQL      8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+JSON         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 ```
 <!--END_SECTION:waka-->
