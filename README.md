@@ -6,12 +6,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 November, 2021 - 15 November, 2021
+Week: 10 November, 2021 - 16 November, 2021
 
-Ruby       25 hrs 47 mins  █████████████████▒░░░░░░░   69.66 % 
-ERB        3 hrs 26 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-YAML       2 hrs 55 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
-Markdown   1 hr 12 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-Other      1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Ruby       25 hrs 44 mins  █████████████████░░░░░░░░   67.56 % 
+ERB        4 hrs 51 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+YAML       3 hrs 23 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+Markdown   1 hr 12 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+Go         57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
 ```
 <!--END_SECTION:waka-->
