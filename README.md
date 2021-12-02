@@ -6,12 +6,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 November, 2021 - 30 November, 2021
+Week: 25 November, 2021 - 01 December, 2021
 
-Ruby         15 hrs 7 mins   ███████████▓░░░░░░░░░░░░░   46.02 % 
-ERB          14 hrs 53 mins  ███████████▒░░░░░░░░░░░░░   45.30 % 
-JavaScript   1 hr 46 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-TypeScript   25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-JSON         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+ERB          14 hrs 1 min    ███████████▓░░░░░░░░░░░░░   46.32 % 
+Ruby         12 hrs 41 mins  ██████████▒░░░░░░░░░░░░░░   41.94 % 
+JavaScript   1 hr 50 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+CSS          38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+TypeScript   25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 ```
 <!--END_SECTION:waka-->
