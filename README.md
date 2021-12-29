@@ -6,12 +6,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 December, 2021 - 27 December, 2021
+Week: 22 December, 2021 - 28 December, 2021
 
-ERB          17 hrs 15 mins  ███████████▒░░░░░░░░░░░░░   45.42 % 
-Ruby         12 hrs 9 mins   ████████░░░░░░░░░░░░░░░░░   32.00 % 
-JavaScript   4 hrs           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
-Markdown     2 hrs 54 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-YAML         33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+ERB          17 hrs          ██████████▓░░░░░░░░░░░░░░   42.45 % 
+Ruby         12 hrs 34 mins  ████████░░░░░░░░░░░░░░░░░   31.40 % 
+JavaScript   5 hrs 28 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+Markdown     2 hrs 54 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+CSS          48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 ```
 <!--END_SECTION:waka-->
