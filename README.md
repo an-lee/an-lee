@@ -6,7 +6,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 December, 2021 - 30 December, 2021
+Week: 25 December, 2021 - 31 December, 2021
 
 Ruby         13 hrs 20 mins  █████████░░░░░░░░░░░░░░░░   35.35 % 
 ERB          10 hrs 42 mins  ███████░░░░░░░░░░░░░░░░░░   28.37 % 
