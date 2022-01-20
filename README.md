@@ -6,12 +6,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 January, 2022 - 18 January, 2022
+Week: 13 January, 2022 - 19 January, 2022
 
-ERB          31 hrs 57 mins  ██████████████▒░░░░░░░░░░   57.58 % 
-Ruby         13 hrs          ██████░░░░░░░░░░░░░░░░░░░   23.43 % 
-JavaScript   7 hrs 47 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-YAML         1 hr 45 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-JSON         23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+ERB          34 hrs 7 mins   ███████████████▒░░░░░░░░░   61.97 % 
+Ruby         13 hrs 43 mins  ██████▒░░░░░░░░░░░░░░░░░░   24.93 % 
+JavaScript   4 hrs 52 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+YAML         1 hr 36 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+desktop      18 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 ```
 <!--END_SECTION:waka-->
