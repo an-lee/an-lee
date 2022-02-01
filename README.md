@@ -6,7 +6,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 January, 2022 - 30 January, 2022
+Week: 25 January, 2022 - 31 January, 2022
 
 ERB          21 hrs 26 mins  ███████████▒░░░░░░░░░░░░░   44.68 % 
 Ruby         16 hrs 41 mins  ████████▓░░░░░░░░░░░░░░░░   34.79 % 
