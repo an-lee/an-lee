@@ -6,12 +6,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 February, 2022 - 12 February, 2022
+Week: 07 February, 2022 - 13 February, 2022
 
-ERB          8 hrs 34 mins   █████████░░░░░░░░░░░░░░░░   36.22 % 
-Ruby         5 hrs 55 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.01 % 
-Markdown     3 hrs 43 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
-TOML         2 hrs 26 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
-JavaScript   1 hr 31 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+ERB          9 hrs 16 mins   ████████▓░░░░░░░░░░░░░░░░   34.48 % 
+Ruby         8 hrs 15 mins   ███████▓░░░░░░░░░░░░░░░░░   30.70 % 
+Markdown     3 hrs 43 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.81 % 
+TOML         2 hrs 12 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+JavaScript   1 hr 49 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
 ```
 <!--END_SECTION:waka-->
