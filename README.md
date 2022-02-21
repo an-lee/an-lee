@@ -6,12 +6,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 February, 2022 - 19 February, 2022
+Week: 14 February, 2022 - 20 February, 2022
 
-Ruby         8 hrs 35 mins   ███████████▓░░░░░░░░░░░░░   46.21 % 
-ERB          3 hrs 54 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.02 % 
-JavaScript   2 hrs 25 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-Solidity     1 hr 43 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
-YAML         45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+Ruby         7 hrs 59 mins   ██████████▒░░░░░░░░░░░░░░   41.40 % 
+Solidity     3 hrs 19 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.22 % 
+ERB          3 hrs 12 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
+JavaScript   2 hrs 24 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+YAML         39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
 ```
 <!--END_SECTION:waka-->
