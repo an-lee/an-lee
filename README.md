@@ -6,12 +6,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-From: 15 February, 2022 - To: 22 February, 2022
+From: 17 February, 2022 - To: 24 February, 2022
 
-ERB          14 hrs 10 mins  ██████████░░░░░░░░░░░░░░░   39.75 % 
-Ruby         10 hrs 45 mins  ███████▓░░░░░░░░░░░░░░░░░   30.15 % 
-Solidity     5 hrs 7 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-JavaScript   2 hrs 59 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
-JSON         41 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+ERB          21 hrs 3 mins   ████████████▓░░░░░░░░░░░░   51.23 % 
+Ruby         12 hrs 10 mins  ███████▒░░░░░░░░░░░░░░░░░   29.64 % 
+Solidity     3 hrs 53 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+JavaScript   1 hr 53 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+JSON         40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 ```
 <!--END_SECTION:waka-->
