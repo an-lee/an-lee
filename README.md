@@ -5,13 +5,16 @@
 - Structral Engineer since July, 2012
 
 <!--START_SECTION:waka-->
-```text
-From: 19 February, 2022 - To: 26 February, 2022
 
-ERB          24 hrs 1 min    ███████████████▓░░░░░░░░░   62.73 % 
-Ruby         9 hrs 26 mins   ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
-Solidity     2 hrs 2 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
-JavaScript   1 hr 36 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-JSON         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+```text
+From: 20 February 2022 - To: 27 February 2022
+
+ERB             24 hrs 44 mins  ██████████████▓░░░░░░░░░░   59.02 %
+Ruby            13 hrs 14 mins  ████████░░░░░░░░░░░░░░░░░   31.60 %
+JavaScript      1 hr 26 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
+YAML            45 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+Go              44 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+JSON            16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 ```
+
 <!--END_SECTION:waka-->
