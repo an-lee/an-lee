@@ -7,14 +7,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 August 2022 - To: 19 August 2022
+From: 13 August 2022 - To: 20 August 2022
 
-Ruby          19 hrs 54 mins  ███████████▒░░░░░░░░░░░░░   45.72 %
-ERB           12 hrs 39 mins  ███████▒░░░░░░░░░░░░░░░░░   29.05 %
-TypeScript    4 hrs 34 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.48 %
-JavaScript    3 hrs 56 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
-YAML          1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
-CSS           38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+Ruby         19 hrs 47 mins  ███████████▓░░░░░░░░░░░░░   46.29 %
+ERB          12 hrs 36 mins  ███████▒░░░░░░░░░░░░░░░░░   29.49 %
+TypeScript   4 hrs 12 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.83 %
+JavaScript   3 hrs 54 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 %
+YAML         1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+CSS          38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
 ```
 
 <!--END_SECTION:waka-->
