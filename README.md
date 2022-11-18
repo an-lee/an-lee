@@ -7,14 +7,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 November 2022 - To: 16 November 2022
+From: 10 November 2022 - To: 17 November 2022
 
-Ruby         15 hrs 45 mins  █████████████▒░░░░░░░░░░░   52.97 %
-TypeScript   9 hrs 10 mins   ███████▓░░░░░░░░░░░░░░░░░   30.80 %
-ERB          2 hrs 40 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 %
-JSON         32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
-Markdown     31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
-JavaScript   23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+Ruby         16 hrs 53 mins  ███████████████░░░░░░░░░░   59.84 %
+TypeScript   5 hrs 46 mins   █████░░░░░░░░░░░░░░░░░░░░   20.45 %
+ERB          3 hrs 43 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.23 %
+YAML         35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+JSON         29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+JavaScript   23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
 ```
 
 <!--END_SECTION:waka-->
