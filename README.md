@@ -7,11 +7,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 January 2023 - To: 25 January 2023
+From: 19 January 2023 - To: 26 January 2023
 
-Ruby   53 mins         ████████████████████▒░░░░   81.65 %
-ERB    10 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.21 %
-Text   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+ERB          4 hrs 5 mins    ███████████████░░░░░░░░░░   60.17 %
+Ruby         2 hrs 34 mins   █████████▒░░░░░░░░░░░░░░░   37.76 %
+JavaScript   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+Text         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka-->
