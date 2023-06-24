@@ -7,13 +7,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 June 2023 - To: 22 June 2023
+From: 16 June 2023 - To: 23 June 2023
 
-TypeScript   14 hrs 54 mins  ████████████▒░░░░░░░░░░░░   48.82 %
-JavaScript   9 hrs 22 mins   ███████▓░░░░░░░░░░░░░░░░░   30.68 %
-ERB          4 hrs 53 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.01 %
-YAML         55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
-Ruby         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+TypeScript   13 hrs 12 mins  ████████████░░░░░░░░░░░░░   48.48 %
+JavaScript   7 hrs 51 mins   ███████▒░░░░░░░░░░░░░░░░░   28.81 %
+ERB          4 hrs 38 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.02 %
+YAML         55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
+Ruby         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
 ```
 
 <!--END_SECTION:waka-->
