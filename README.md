@@ -7,12 +7,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 November 2023 - To: 02 December 2023
+From: 26 November 2023 - To: 03 December 2023
 
-TypeScript   18 hrs 44 mins  ████████████▓░░░░░░░░░░░░   51.15 %
-Ruby         15 hrs 5 mins   ██████████▒░░░░░░░░░░░░░░   41.18 %
+TypeScript   18 hrs 44 mins  ████████████▓░░░░░░░░░░░░   51.26 %
+Ruby         15 hrs 5 mins   ██████████▒░░░░░░░░░░░░░░   41.27 %
 Markdown     1 hr 4 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
-JSON         41 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+JSON         37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
 YAML         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 ```
 
