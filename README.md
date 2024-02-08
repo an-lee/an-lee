@@ -7,13 +7,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 January 2024 - To: 06 February 2024
+From: 31 January 2024 - To: 07 February 2024
 
-TypeScript    12 hrs 44 mins  █████████████████████▒░░░   85.11 %
-Ruby          1 hr 44 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.59 %
-JSON          19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
-YAML          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
-JavaScript    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+TypeScript    8 hrs 53 mins   ███████████████████░░░░░░   75.50 %
+Ruby          2 hrs 10 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.40 %
+ERB           22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
+YAML          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+JSON          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
 ```
 
 <!--END_SECTION:waka-->
