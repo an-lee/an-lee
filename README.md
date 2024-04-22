@@ -7,13 +7,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2024 - To: 20 April 2024
+From: 14 April 2024 - To: 21 April 2024
 
-TypeScript   18 hrs 3 mins   ████████████████████▒░░░░   81.97 %
-JSON         1 hr 20 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
-Ruby         1 hr 19 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
-JavaScript   25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
-TOML         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+TypeScript   16 hrs 32 mins  ████████████████████░░░░░   79.79 %
+Ruby         1 hr 37 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
+JSON         1 hr 19 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.42 %
+JavaScript   22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+TOML         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
 ```
 
 <!--END_SECTION:waka-->
