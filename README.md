@@ -7,13 +7,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 November 2024 - To: 22 November 2024
+From: 16 November 2024 - To: 23 November 2024
 
-TypeScript    8 hrs 17 mins   █████████▓░░░░░░░░░░░░░░░   38.07 %
-YAML          4 hrs 6 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.85 %
-Ruby          3 hrs 7 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.31 %
-Other         1 hr 16 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
-Markdown      1 hr 12 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
+TypeScript    6 hrs           ███████▓░░░░░░░░░░░░░░░░░   30.89 %
+YAML          4 hrs 6 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.11 %
+Ruby          3 hrs 7 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.03 %
+Other         1 hr 16 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
+Markdown      1 hr 12 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
 ```
 
 <!--END_SECTION:waka-->
