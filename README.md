@@ -7,13 +7,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 February 2025 - To: 16 February 2025
+From: 10 February 2025 - To: 17 February 2025
 
-Ruby              7 hrs 49 mins   █████████████▓░░░░░░░░░░░   54.41 %
-TypeScript        1 hr 48 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.61 %
-JSON              1 hr 42 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.92 %
-YAML              55 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
-Groovy            32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
+Ruby              10 hrs 2 mins   ███████████████░░░░░░░░░░   59.42 %
+TypeScript        1 hr 48 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.75 %
+JSON              1 hr 44 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 %
+YAML              58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
+ERB               33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
 ```
 
 <!--END_SECTION:waka-->
