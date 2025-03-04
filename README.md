@@ -7,13 +7,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 February 2025 - To: 02 March 2025
+From: 24 February 2025 - To: 03 March 2025
 
-ERB          13 hrs 59 mins  ████████▒░░░░░░░░░░░░░░░░   33.37 %
-Ruby         8 hrs 56 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.33 %
-Dart         5 hrs 53 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.07 %
-TypeScript   5 hrs 43 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.67 %
-JavaScript   5 hrs 25 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.95 %
+ERB          17 hrs 41 mins  ██████████▓░░░░░░░░░░░░░░   42.86 %
+Ruby         9 hrs 11 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.25 %
+JavaScript   6 hrs 53 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.68 %
+TypeScript   3 hrs 34 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 %
+Dart         2 hrs 28 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
 ```
 
 <!--END_SECTION:waka-->
