@@ -7,13 +7,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 March 2025 - To: 06 April 2025
+From: 31 March 2025 - To: 07 April 2025
 
-TypeScript          21 hrs 31 mins  ████████████░░░░░░░░░░░░░   48.46 %
-Dart                9 hrs 5 mins    █████░░░░░░░░░░░░░░░░░░░░   20.47 %
-Swift               4 hrs           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
-JSON                1 hr 53 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
-Kotlin              1 hr 6 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+TypeScript          30 hrs 52 mins  ████████████████░░░░░░░░░   64.49 %
+Dart                4 hrs 29 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.37 %
+Swift               4 hrs           ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 %
+JSON                1 hr 55 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+Markdown            1 hr 52 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
 ```
 
 <!--END_SECTION:waka-->
