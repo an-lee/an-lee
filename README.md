@@ -7,7 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 May 2025 - To: 06 June 2025
+From: 31 May 2025 - To: 07 June 2025
 
 Ruby                6 hrs 53 mins   █████████████░░░░░░░░░░░░   51.45 %
 Dart                4 hrs 16 mins   ████████░░░░░░░░░░░░░░░░░   31.83 %
