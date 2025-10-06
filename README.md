@@ -7,13 +7,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 September 2025 - To: 04 October 2025
+From: 28 September 2025 - To: 05 October 2025
 
-ERB          16 hrs 2 mins   ███████████▒░░░░░░░░░░░░░   45.58 %
-Ruby         13 hrs 23 mins  █████████▓░░░░░░░░░░░░░░░   38.02 %
-YAML         4 hrs 37 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.14 %
-JavaScript   46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
-Other        13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+ERB          12 hrs 57 mins  ██████████▒░░░░░░░░░░░░░░   41.87 %
+Ruby         11 hrs 50 mins  █████████▓░░░░░░░░░░░░░░░   38.27 %
+YAML         3 hrs 21 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.86 %
+TypeScript   1 hr 29 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
+JavaScript   46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
 ```
 
 <!--END_SECTION:waka-->
