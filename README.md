@@ -7,13 +7,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 November 2025 - To: 10 November 2025
+From: 04 November 2025 - To: 11 November 2025
 
-TypeScript   16 hrs 40 mins  █████████████████▒░░░░░░░   69.41 %
-Dart         4 hrs 27 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.57 %
-Markdown     50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
-YAML         44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
-Ruby         43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
+TypeScript   18 hrs 44 mins  ████████████████▓░░░░░░░░   66.82 %
+Dart         4 hrs 20 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.50 %
+Markdown     2 hrs 40 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 %
+YAML         44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+JSON         31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
 ```
 
 <!--END_SECTION:waka-->
