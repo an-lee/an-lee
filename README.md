@@ -7,13 +7,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 December 2025 - To: 08 December 2025
+From: 02 December 2025 - To: 09 December 2025
 
-TypeScript   38 hrs 46 mins  ██████████████████▓░░░░░░   74.53 %
-Ruby         4 hrs 40 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 %
-Markdown     4 hrs 8 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
-ERB          1 hr 7 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
-JSON         1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+TypeScript   36 hrs 41 mins  █████████████████▓░░░░░░░   70.93 %
+Ruby         6 hrs 21 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.30 %
+Markdown     4 hrs 18 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 %
+JSON         1 hr 23 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
+ERB          1 hr 4 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
 ```
 
 <!--END_SECTION:waka-->
