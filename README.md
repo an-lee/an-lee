@@ -7,13 +7,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 February 2026 - To: 11 February 2026
+From: 05 February 2026 - To: 12 February 2026
 
-Dart         8 hrs 3 mins    ███████████████▒░░░░░░░░░   61.75 %
-Ruby         57 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
-Other        51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
-TypeScript   49 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
-JSON         41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
+Dart         6 hrs 27 mins   ███████████████▒░░░░░░░░░   61.23 %
+Ruby         56 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 %
+TypeScript   49 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 %
+Other        40 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
+Bash         38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
 ```
 
 <!--END_SECTION:waka-->
