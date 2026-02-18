@@ -7,13 +7,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 February 2026 - To: 16 February 2026
+From: 10 February 2026 - To: 17 February 2026
 
-Ruby         55 mins         ███████▓░░░░░░░░░░░░░░░░░   31.12 %
-Markdown     48 mins         ███████░░░░░░░░░░░░░░░░░░   27.37 %
-JSON         33 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.06 %
-TypeScript   19 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.05 %
-SQL          6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
+Markdown     48 mins         █████████▒░░░░░░░░░░░░░░░   37.34 %
+JSON         33 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.00 %
+TypeScript   19 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.08 %
+Ruby         7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
+SQL          6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
 ```
 
 <!--END_SECTION:waka-->
